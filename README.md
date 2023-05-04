@@ -36,6 +36,7 @@
 <a href="https://github.com/albzamor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albzamor&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albzamor&langs_count=10&theme=buefy&layout=compact&count-private=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albzamor)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <br/>
